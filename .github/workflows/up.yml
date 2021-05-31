@@ -11,6 +11,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{secrets.SECRET}}
-          repository: rajesh7979/Nodejsapp
+          repository: rajesh7979/Spring-boot-sqs
           event-type: x
 
