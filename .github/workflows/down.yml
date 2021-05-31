@@ -2,3 +2,9 @@ name: Test
 on: 
   repository_dispatch:    
     type: [x]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+  
+      
