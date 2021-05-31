@@ -1,0 +1,4 @@
+name: Test 
+on: 
+  repository_dispatch:    
+    type: [x]
